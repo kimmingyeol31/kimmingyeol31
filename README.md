@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://hits.sh/github.com/kimmingyeol31.svg?style=flat-square&label=visits&color=1F6FEB&labelColor=1F6FEB" />
+
 <!--
 **kimmingyeol31/kimmingyeol31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
